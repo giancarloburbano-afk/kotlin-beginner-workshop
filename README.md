@@ -1,6 +1,6 @@
 Taller para principiantes de Kotlin.
 
-Estudiante Giancarlo Burbano Urbano,
+Estudiante: Giancarlo Burbano Urbano,
 
 Este repositorio contiene ocho ejercicios desarrollados en Kotlin como parte de un taller de programación, para practicar los fundamentos del lenguaje con diferentes problemas de programación. 
 Estructura: lista de exercise-01 a exercise-08, cada uno con su Main.kt. 
